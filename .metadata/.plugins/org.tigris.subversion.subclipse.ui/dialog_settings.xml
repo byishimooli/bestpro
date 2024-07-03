@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item key="DirectorySelectionPage.lastParent_https://byishimo_34/svn/Repo2" value=""/>
+	<item key="RepositorySelectionPage.lastRepository" value="https://byishimo_34/svn/Repo2"/>
+	<item key="CommitDialog.location.x" value="194"/>
+	<item key="CommitDialog.location.y" value="0"/>
+	<item key="CommitDialog.size.x" value="1532"/>
+	<item key="CommitDialog.size.y" value="1080"/>
+	<item key="CommitDialog.weights.0" value="500"/>
+	<item key="CommitDialog.weights.1" value="500"/>
+	<item key="RevertDialog.location.x" value="523"/>
+	<item key="RevertDialog.location.y" value="0"/>
+	<item key="RevertDialog.size.x" value="875"/>
+	<item key="RevertDialog.size.y" value="1073"/>
+	<item key="UpdateDialogWithConflictHandling.location.x" value="523"/>
+	<item key="UpdateDialogWithConflictHandling.location.y" value="0"/>
+	<item key="UpdateDialogWithConflictHandling.size.x" value="875"/>
+	<item key="UpdateDialogWithConflictHandling.size.y" value="1034"/>
+	<item key="HistoryTableProvider.SVNHistoryPage.Revision" value="101"/>
+	<item key="HistoryTableProvider.SVNHistoryPage.Date" value="251"/>
+	<item key="HistoryTableProvider.SVNHistoryPage.Author" value="200"/>
+	<item key="HistoryTableProvider.SVNHistoryPage.Comment" value="500"/>
+	<section name="NewLocationWizard">
+		<list key="ConfigurationWizardMainPage.STORE_URL_ID">
+			<item value="https://BYISHIMO_34/svn/Repo2/"/>
+			<item value=""/>
+		</list>
+		<section name="SharingWizard.dialogBounds">
+			<item key="DIALOG_X_ORIGIN" value="534"/>
+			<item key="DIALOG_Y_ORIGIN" value="157"/>
+			<item key="DIALOG_WIDTH" value="875"/>
+			<item key="DIALOG_HEIGHT" value="591"/>
+			<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-18|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+		</section>
+	</section>
+	<section name="CommitWizard">
+		<item key="VWeight1" value="500"/>
+		<item key="VWeight2" value="500"/>
+		<item key="ShowCompare" value="false"/>
+	</section>
+</section>
